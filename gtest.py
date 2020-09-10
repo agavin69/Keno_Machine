@@ -47,7 +47,7 @@ def compareChoices(user, machine):
 
 
 
-############################# SOMEONE ELSES SHIT
+
 
 userChoices = getUserSelection()
 kenoNumbers = getKenoNumbers()
